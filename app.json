@@ -362,6 +362,34 @@
         {
           "name": "ActiveMax_2",
           "deviceSource": 10813697
+        },
+        {
+          "name": "TRex_Ultra2_1",
+          "deviceSource": 10879233
+        },
+        {
+          "name": "TRex_Ultra2_2",
+          "deviceSource": 10879232
+        },
+        {
+          "name": "TRex_Ultra2_3",
+          "deviceSource": 10879235
+        },
+        {
+          "name": "Active3premium_1",
+          "deviceSource": 10948867
+        },
+        {
+          "name": "Active3premium_2",
+          "deviceSource": 10944771
+        },
+        {
+          "name": "Active3premium_3",
+          "deviceSource": 10944769
+        },
+        {
+          "name": "Active3premium_4",
+          "deviceSource": 10944768
         }
       ],
       "designWidth": 480
