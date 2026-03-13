@@ -2,6 +2,6 @@ name: Build ZeppOS App
 
 on:
   push:
-    branches: [ main, master ]  # 当代码推送到 main 或 master 分支时触发
+    branches: [ main, master ]  
   pull_request:
-    branches: [ main, master ]   # 当有人向 main 或 master 分支提交 PR 时触发
+    branches: [ main, master ]  
